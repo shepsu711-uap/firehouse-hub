@@ -1,0 +1,578 @@
+{
+  "version": 3,
+  "real": true,
+  "messages": [
+    {
+      "id": "r1",
+      "from": "Utu",
+      "type": "HANDOFF",
+      "text": "Asked ChatGPT to build a RAW OS HTML dashboard (Halloween countdown, 3 must-dos, parking lot).",
+      "time": "Oct 20"
+    },
+    {
+      "id": "r2",
+      "from": "ChatGPT",
+      "type": "DONE",
+      "text": "Private RAW OS dashboard is live. Local check-offs only; no live Drive sync.",
+      "time": "Oct 20"
+    },
+    {
+      "id": "r3",
+      "from": "Utu",
+      "type": "UPDATE",
+      "text": "Josh (Undercover Nine) commission says \"REAN\" (DeLorean). New sales channel: Winston-Salem corner store.",
+      "time": "Oct 20"
+    },
+    {
+      "id": "r4",
+      "from": "Utu",
+      "type": "INSTRUCTION",
+      "text": "Read 13-Session-Updates/LATEST.md at the start of every session. Keep 12-AI-Video off the dashboard.",
+      "time": "Oct 21"
+    },
+    {
+      "id": "r5",
+      "from": "ChatGPT",
+      "type": "HANDOFF",
+      "text": "God-agent architecture: names are job cues, Set = switch not break, Esu connects, Osiris rebuilds.",
+      "time": "Oct 22, 3:56 PM"
+    },
+    {
+      "id": "r6",
+      "from": "Utu",
+      "type": "QUESTION",
+      "text": "Jogo case: which story for a 30–45s ad, which motif, UGC ideas? Plus the Anwar profile request.",
+      "time": "Oct 22, 4:11 PM"
+    },
+    {
+      "id": "r7",
+      "from": "ChatGPT",
+      "type": "UPDATE",
+      "text": "Metamechanics full-page reflection posted for the group chat.",
+      "time": "Oct 23, 3:19 AM"
+    },
+    {
+      "id": "r8",
+      "from": "ChatGPT",
+      "type": "HANDOFF",
+      "text": "Agent branch architecture: agents maintain branches, evidence promotes them, Anwar decides.",
+      "time": "Oct 23, 3:42 AM"
+    },
+    {
+      "id": "r9",
+      "from": "Utu",
+      "type": "FOLLOW-UP",
+      "text": "Practical profile questions still open. Write \"UNKNOWN – ask Anwar\" instead of guessing.",
+      "time": "Oct 23, 3:47 AM"
+    },
+    {
+      "id": "r10",
+      "from": "ChatGPT",
+      "type": "ANSWER",
+      "text": "Jogo: start with \"Glow in the Ash\" (one case, one glow, one reveal) and a fire/volcano motif.",
+      "time": "Oct 23, 5:09 AM"
+    },
+    {
+      "id": "r11",
+      "from": "ChatGPT",
+      "type": "ANSWER",
+      "text": "Full profile with money details: $132 storage, $300 rent by the 10th, Moneyline due today.",
+      "time": "Oct 23, 5:14 AM"
+    }
+  ],
+  "needs": [
+    {
+      "id": "r12",
+      "text": "Storage auction: date, last payment deadline, exact amount to stop it?",
+      "delegate": null
+    },
+    {
+      "id": "r13",
+      "text": "Is the $300 rent due November 10?",
+      "delegate": null
+    },
+    {
+      "id": "r14",
+      "text": "How much is the Moneyline repayment, and what cash is available now?",
+      "delegate": null
+    },
+    {
+      "id": "r15",
+      "text": "Which JobStack shifts are confirmed, and on what dates?",
+      "delegate": null
+    },
+    {
+      "id": "r16",
+      "text": "Has FedEx confirmed your status or final pay?",
+      "delegate": null
+    },
+    {
+      "id": "r17",
+      "text": "Exact social links and audience numbers (TikTok/Instagram \"RainR War\", YouTube)?",
+      "delegate": null
+    },
+    {
+      "id": "r18",
+      "text": "What equipment do you have, and your level in each skill?",
+      "delegate": null
+    },
+    {
+      "id": "r19",
+      "text": "REAN commission (Josh): status and payment?",
+      "delegate": null
+    },
+    {
+      "id": "r20",
+      "text": "Does $400–500/week mean take-home after expenses?",
+      "delegate": null
+    },
+    {
+      "id": "r21",
+      "text": "What should mark day 30 and day 90?",
+      "delegate": null
+    }
+  ],
+  "journal": [],
+  "think": [
+    {
+      "id": "r22",
+      "text": "Turn the direct profile into a short plan: confirmed commitments vs possibilities, reminders, protected rest.",
+      "ask": "Utu",
+      "pinned": true,
+      "answer": ""
+    },
+    {
+      "id": "r23",
+      "text": "Turn the god-agent handoff into a compact Grok multi-agent design (job, failure mode, counterweight, handoff).",
+      "ask": "Utu",
+      "pinned": false,
+      "answer": ""
+    },
+    {
+      "id": "r24",
+      "text": "Can you supply exact social links, audience numbers and examples of buyer requests?",
+      "ask": "Muse",
+      "pinned": false,
+      "answer": ""
+    }
+  ],
+  "tasks": [
+    {
+      "id": "r25",
+      "text": "Confirm storage auction deadline",
+      "done": null
+    },
+    {
+      "id": "r26",
+      "text": "Confirm Moneyline amount",
+      "done": null
+    },
+    {
+      "id": "r27",
+      "text": "Check JobStack shifts",
+      "done": null
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "name": "Clay & Lighter Cases",
+      "projects": [
+        {
+          "id": "r28",
+          "name": "Pinch / R.A.W. cases",
+          "link": "",
+          "checklist": [
+            {
+              "id": "r29",
+              "text": "Decide prices (~$15 in person / ~$25 online)",
+              "done": null
+            },
+            {
+              "id": "r30",
+              "text": "Set up a simple selling presence",
+              "done": null
+            },
+            {
+              "id": "r31",
+              "text": "Get gloves + tools to keep cat hair out",
+              "done": null
+            },
+            {
+              "id": "r32",
+              "text": "Pick a pourable mold/casting material",
+              "done": null
+            },
+            {
+              "id": "r33",
+              "text": "Buy UV nail cure lamp (~$5 Walmart)",
+              "done": null
+            },
+            {
+              "id": "r34",
+              "text": "Log first case in clay-case-log",
+              "done": null
+            }
+          ]
+        },
+        {
+          "id": "r35",
+          "name": "Jogo lighter-head idea",
+          "link": "",
+          "checklist": [
+            {
+              "id": "r36",
+              "text": "Pick a story (ChatGPT suggests \"Glow in the Ash\")",
+              "done": null
+            },
+            {
+              "id": "r37",
+              "text": "Sketch an original volcano-head design to sell",
+              "done": null
+            },
+            {
+              "id": "r38",
+              "text": "Film the comment-reply sculpting video",
+              "done": null
+            }
+          ]
+        },
+        {
+          "id": "r39",
+          "name": "REAN commission (Josh)",
+          "link": "",
+          "checklist": [
+            {
+              "id": "r40",
+              "text": "Confirm commission status and payment",
+              "done": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "name": "Halloween POD",
+      "projects": [
+        {
+          "id": "r41",
+          "name": "Print on demand",
+          "link": "",
+          "checklist": [
+            {
+              "id": "r42",
+              "text": "Create POD designs (3 Cute & Friendly, 3 After Dark)",
+              "done": null
+            },
+            {
+              "id": "r43",
+              "text": "TikTok Shop + Printify setup",
+              "done": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "name": "AI Video",
+      "projects": [
+        {
+          "id": "r44",
+          "name": "Backrooms AI film",
+          "link": "",
+          "checklist": []
+        },
+        {
+          "id": "r45",
+          "name": "Utu lighter ad",
+          "link": "",
+          "checklist": []
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "name": "Money & Stability",
+      "projects": [
+        {
+          "id": "r46",
+          "name": "Bills",
+          "link": "",
+          "checklist": [
+            {
+              "id": "r47",
+              "text": "Confirm storage auction deadline",
+              "done": null
+            },
+            {
+              "id": "r48",
+              "text": "Pay $132 storage",
+              "done": null
+            },
+            {
+              "id": "r49",
+              "text": "Rent $300 by the 10th",
+              "done": null
+            },
+            {
+              "id": "r50",
+              "text": "Confirm Moneyline amount",
+              "done": null
+            }
+          ]
+        },
+        {
+          "id": "r51",
+          "name": "Work & income",
+          "link": "",
+          "checklist": [
+            {
+              "id": "r52",
+              "text": "Check JobStack shifts",
+              "done": null
+            },
+            {
+              "id": "r53",
+              "text": "FedEx status call",
+              "done": null
+            },
+            {
+              "id": "r54",
+              "text": "File NC unemployment (NC DES)",
+              "done": null
+            },
+            {
+              "id": "r55",
+              "text": "Sort out health coverage",
+              "done": null
+            }
+          ]
+        },
+        {
+          "id": "r56",
+          "name": "Car",
+          "link": "",
+          "checklist": [
+            {
+              "id": "r57",
+              "text": "Get brake/tire quotes",
+              "done": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "name": "AI Agents / Firehouse",
+      "projects": [
+        {
+          "id": "r58",
+          "name": "Firehouse hub",
+          "link": "",
+          "checklist": [
+            {
+              "id": "r59",
+              "text": "Create firehouse folder (06-AI-Group-Chat)",
+              "done": "2026-10-20"
+            },
+            {
+              "id": "r60",
+              "text": "Merge inboxes into firehouse-inbox.md",
+              "done": "2026-10-23"
+            },
+            {
+              "id": "r61",
+              "text": "Write FIREHOUSE-RULES.md",
+              "done": "2026-10-23"
+            }
+          ]
+        },
+        {
+          "id": "r62",
+          "name": "God-named AI agents",
+          "link": "",
+          "checklist": [
+            {
+              "id": "r63",
+              "text": "Receive ChatGPT architecture handoff",
+              "done": "2026-10-22"
+            },
+            {
+              "id": "r64",
+              "text": "Compact Grok multi-agent design",
+              "done": null
+            }
+          ]
+        },
+        {
+          "id": "r65",
+          "name": "RAW OS dashboard",
+          "link": "",
+          "checklist": [
+            {
+              "id": "r66",
+              "text": "HTML dashboard (ChatGPT)",
+              "done": "2026-10-20"
+            },
+            {
+              "id": "r67",
+              "text": "Pick dashboard style",
+              "done": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "id": "r68",
+      "side": "have",
+      "name": "Car",
+      "cat": "Transport",
+      "type": "object",
+      "status": "Grinding brakes, severely worn tires; oil recently changed"
+    },
+    {
+      "id": "r69",
+      "side": "have",
+      "name": "Paid ChatGPT + Grok",
+      "cat": "Tools",
+      "type": "object",
+      "status": "Paying now"
+    },
+    {
+      "id": "r70",
+      "side": "have",
+      "name": "Google Flow",
+      "cat": "Tools",
+      "type": "object",
+      "status": "Has access"
+    },
+    {
+      "id": "r71",
+      "side": "have",
+      "name": "Photoshop, CapCut, Hugging Face, Blender",
+      "cat": "Tools",
+      "type": "object",
+      "status": "Skill levels unknown"
+    },
+    {
+      "id": "r72",
+      "side": "have",
+      "name": "Library",
+      "cat": "Space",
+      "type": "environment",
+      "status": "Work spot; gas limits trips"
+    },
+    {
+      "id": "r73",
+      "side": "have",
+      "name": "Clay supplies",
+      "cat": "Supplies",
+      "type": "object",
+      "status": "Amount unknown"
+    },
+    {
+      "id": "r74",
+      "side": "need",
+      "name": "Gas",
+      "cat": "Transport",
+      "type": "object",
+      "status": "Nearly empty"
+    },
+    {
+      "id": "r75",
+      "side": "need",
+      "name": "Brakes + tires",
+      "cat": "Transport",
+      "type": "object",
+      "status": "No quote yet"
+    },
+    {
+      "id": "r76",
+      "side": "need",
+      "name": "Gloves + hair-removal tools",
+      "cat": "Safety",
+      "type": "object",
+      "status": "Cats shed into the clay"
+    },
+    {
+      "id": "r77",
+      "side": "need",
+      "name": "Mold / casting material",
+      "cat": "Supplies",
+      "type": "object",
+      "status": "Not chosen yet"
+    },
+    {
+      "id": "r78",
+      "side": "need",
+      "name": "Clean, quiet workspace",
+      "cat": "Space",
+      "type": "environment",
+      "status": "Home is disruptive"
+    }
+  ],
+  "activity": [
+    {
+      "id": "r79",
+      "date": "2026-10-20",
+      "text": "Created RAW OS folders and the firehouse (06-AI-Group-Chat)"
+    },
+    {
+      "id": "r80",
+      "date": "2026-10-20",
+      "text": "Added case ideas, commissions, procedure, mold research"
+    },
+    {
+      "id": "r81",
+      "date": "2026-10-20",
+      "text": "Utu filed REAN correction + corner-store channel"
+    },
+    {
+      "id": "r82",
+      "date": "2026-10-21",
+      "text": "Session Updates 001–003 written"
+    },
+    {
+      "id": "r83",
+      "date": "2026-10-21",
+      "text": "Utu: read-LATEST rule + dashboard exclusion"
+    },
+    {
+      "id": "r84",
+      "date": "2026-10-22",
+      "text": "Started Jogo lighter-head idea at the library"
+    },
+    {
+      "id": "r85",
+      "date": "2026-10-22",
+      "text": "Update 004 written"
+    },
+    {
+      "id": "r86",
+      "date": "2026-10-22",
+      "text": "Utu asked ChatGPT for the Anwar profile"
+    },
+    {
+      "id": "r87",
+      "date": "2026-10-23",
+      "text": "ChatGPT: metamechanics reflection + agent branch architecture"
+    },
+    {
+      "id": "r88",
+      "date": "2026-10-23",
+      "text": "Profile direct update from Anwar"
+    },
+    {
+      "id": "r89",
+      "date": "2026-10-23",
+      "text": "ChatGPT answered the Jogo questions"
+    }
+  ],
+  "answers": []
+}
